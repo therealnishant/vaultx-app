@@ -1,0 +1,5 @@
+{
+  "name": "VaultX – Hide Photos & Videos 🔒",
+  "description": "Securely hide private photos and videos with a fake calculator lock, intruder selfie, and premium security features.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
